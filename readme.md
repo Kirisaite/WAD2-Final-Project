@@ -1,3 +1,16 @@
+Anime info
+![alt text][img1]Home
+![alt text][img2]Add Page
+![alt text][img3]Additional Info Page
+![alt text][img4]Edit
+
+[img1]:https://github.com/Kirisaite/WAD2-Final-Project/blob/master/AnimeScrn1.PNG
+[img2]:https://github.com/Kirisaite/WAD2-Final-Project/blob/master/AnimeScrn2.PNG
+[img3]:https://github.com/Kirisaite/WAD2-Final-Project/blob/master/AnimeScrn3.PNG
+[img4]:https://github.com/Kirisaite/WAD2-Final-Project/blob/master/AnimeScrn4.PNG
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
